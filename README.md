@@ -3,4 +3,4 @@
 
 Criado arquivo teste-projeto.php
 
-Aruivo teste-projeto commitado
+Arquivo teste-projeto commitado
